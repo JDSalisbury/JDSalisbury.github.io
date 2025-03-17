@@ -19,9 +19,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Offside",
-        body: "Overpass",
-        code: "JetBrains Mono",
+        header: "Orbitron",
+        body: "Exo",
+        code: "Source Code Pro",
       },
       colors: {
         lightMode: {

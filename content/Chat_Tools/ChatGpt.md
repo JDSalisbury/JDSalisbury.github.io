@@ -1,7 +1,6 @@
 ---
 title: "Analyzing My Usage of ChatGPT"
 description: "A comprehensive look at how I've used ChatGPT across various domains, what features I should lean into, and my usage patterns."
-author: "[Your Name]"
 date: "2025-03-16"
 categories:
   - AI
