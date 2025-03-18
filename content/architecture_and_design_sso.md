@@ -8,6 +8,8 @@ draft: false
 
 ## Architecture & Design: A Miss and a Lesson on SSO
 
+![AI picture of SSO?](./assets/sso.png)
+
 ### The Miss
 
 Recently, I was in an architecture/design interview, and I was asked about the login process and SSO when walking through the steps of an application. I use SSO daily at work, but when I had to explain it, I realized I didn’t have a solid answer. I’ve set it up once before, but it was a team effort, and I never had to fully understand every moving piece myself. That moment made me realize a knowledge gap I didn’t even know I had—so here I am, digging in and learning.
