@@ -47,15 +47,15 @@ const config: QuartzConfig = {
         //   textHighlight: "#7b6e1b",
         // },
         darkMode: {
-          light: "#373534",        // Darker background for better contrast  
-          lightgray: "#494745",    // Subtle contrast for UI elements  
-          gray: "#8d8d8d",         // Medium gray for secondary elements  
-          darkgray: "#d4d4d4",     // Well-balanced gray for subtext and secondary text  
-          dark: "#fcf2d8",         // Warm beige for main text (readable but not harsh)  
-          secondary: "#feb976",    // Muted golden-yellow for buttons and accents  
-          tertiary: "#bb8a3e",     // Darker gold for subheadings (less bright)  
-          highlight: "rgba(131, 165, 152, 0.3)",  // Soft teal-green for background highlights  
-          textHighlight: "#7b6e1b", // Muted teal-blue for text highlights (clear contrast with white text)  
+          light: "#0d0b1a",        // Deep cosmic navy (rich dark background)  
+          lightgray: "#19172b",    // Slightly lighter for contrast without being too harsh  
+          gray: "#5f5c8a",         // Soft cosmic violet for secondary elements  
+          darkgray: "#c3c3dd",     // Pale, misty lavender for subtext and secondary text  
+          dark: "#ebe2ff",         // Warm, ethereal white-lavender for main text (soft readability)  
+          secondary: "#7e57c2",    // Cosmic purple for accents and buttons  
+          tertiary: "#4a3d9a",     // Deep space indigo for subheadings and elements  
+          highlight: "rgba(88, 101, 242, 0.3)",  // Galactic blue glow for UI highlights  
+          textHighlight: "#a385ff", // Soft neon purple for text highlights (adds vibrancy)  
         }
       },
     },
