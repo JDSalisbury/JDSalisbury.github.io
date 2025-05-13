@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: #f0f0f0;
+    padding: 2rem;
+  }
+  h1 {
+    text-align: center;
+    color: #ffffff;
+  }
+  .category {
+    margin: 2rem 0;
+  }
+  .category h2 {
+    color: #ffd700;
+    border-bottom: 1px solid #444;
+    padding-bottom: 0.5rem;
+  }
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  li a {
+    color: #80cbc4;
+    text-decoration: none;
+    display: block;
+    padding: 0.3rem 0;
+  }
+  li a:hover {
+    text-decoration: underline;
+  }
+  
