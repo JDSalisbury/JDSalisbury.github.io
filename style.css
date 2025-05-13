@@ -1,32 +1,31 @@
 body {
     font-family: Arial, sans-serif;
-    background: #121212;
-    color: #f0f0f0;
-    padding: 2rem;
+    padding: 1rem;
+    background: #1e1e1e;
+    color: #eee;
   }
-  h1 {
-    text-align: center;
-    color: #ffffff;
+  
+  .bookmark-section {
+    margin-bottom: 2rem;
   }
-  .category {
-    margin: 2rem 0;
-  }
-  .category h2 {
-    color: #ffd700;
-    border-bottom: 1px solid #444;
-    padding-bottom: 0.5rem;
-  }
-  ul {
+  
+  .bookmark-list {
     list-style: none;
     padding-left: 0;
+    display: grid;
+    gap: 0.5rem;
   }
-  li a {
-    color: #80cbc4;
+  
+  .bookmark-item a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #ccc;
     text-decoration: none;
-    display: block;
-    padding: 0.3rem 0;
   }
-  li a:hover {
-    text-decoration: underline;
+  
+  .bookmark-icon {
+    width: 16px;
+    height: 16px;
   }
   
