@@ -52,28 +52,6 @@ fetch("bookmarks.json")
     console.error("Error loading bookmarks:", error);
   });
 
-function loadRandomQuote() {
-  fetch("https://api.quotable.io/random")
-    .then((res) => {
-      if (!res.ok) {
-        throw new Error("Failed to fetch quote");
-      }
-      return res.json();
-    })
-    .then((data) => {
-      const quoteBox = document.getElementById("quote-text");
-      quoteBox.textContent = `"${data.content}" — ${data.author}`;
-    })
-    .catch((err) => {
-      console.error(err);
-      document.getElementById("quote-text").textContent =
-        "Couldn't load quote.";
-    });
-}
-
-// Load quote on page load
-window.addEventListener("DOMContentLoaded", loadRandomQuote);
-
 function applyTheme(theme) {
   document.body.classList.toggle("dark", theme === "dark");
 }
