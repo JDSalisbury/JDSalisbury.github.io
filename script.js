@@ -55,9 +55,12 @@ fetch("bookmarks.json")
 async function loadRandomQuote() {
   try {
     let headers = { Accept: "application/json" };
-    const response = await fetch("https://zenquotes.io/api/random", {
-      headers,
-    });
+    const response = await fetch(
+      "https://zenquotes.io/api/random?tags=technology",
+      {
+        headers,
+      }
+    );
 
     if (!response.ok) {
       throw new Error(
