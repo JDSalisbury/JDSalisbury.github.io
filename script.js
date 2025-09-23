@@ -66,6 +66,7 @@ function loadRandomQuote() {
       quoteBox.textContent = `"${data.content}" — ${data.author}`;
     })
     .catch((err) => {
+      console.log("Error fetching quote:", err);
       console.error(err);
       document.getElementById("quote-text").textContent =
         "Couldn't load quote.";
