@@ -54,11 +54,12 @@ fetch("bookmarks.json")
 
 async function loadRandomQuote() {
   try {
-    let headers = { Accept: "application/json" };
+    // Using a CORS proxy to access ZenQuotes
     const response = await fetch(
-      "https://zenquotes.io/api/random?tags=technology",
+      "https://api.allorigins.win/get?url=" +
+        encodeURIComponent("https://zenquotes.io/api/random"),
       {
-        headers,
+        headers: { Accept: "application/json" },
       }
     );
 
@@ -68,7 +69,8 @@ async function loadRandomQuote() {
       );
     }
 
-    const data = await response.json();
+    const proxyData = await response.json();
+    const data = JSON.parse(proxyData.contents);
     const quoteBox = document.getElementById("quote-text");
     // ZenQuotes returns an array with q (quote) and a (author) properties
     quoteBox.textContent = `"${data[0].q}" — ${data[0].a}`;
