@@ -52,25 +52,28 @@ fetch("bookmarks.json")
     console.error("Error loading bookmarks:", error);
   });
 
-function loadRandomQuote() {
-  let headers = { Accept: "application/json" };
-  fetch("http://api.quotable.io/random?tags=technology", { headers })
-    .then((res) => {
-      if (!res.ok) {
-        throw new Error("Failed to fetch quote");
-      }
-      return res.json();
-    })
-    .then((data) => {
-      const quoteBox = document.getElementById("quote-text");
-      quoteBox.textContent = `"${data.content}" — ${data.author}`;
-    })
-    .catch((err) => {
-      console.log("Error fetching quote:", err);
-      console.error(err);
-      document.getElementById("quote-text").textContent =
-        "Couldn't load quote.";
-    });
+async function loadRandomQuote() {
+  try {
+    let headers = { Accept: "application/json" };
+    const response = await fetch(
+      "https://api.quotable.io/random?tags=technology",
+      { headers }
+    );
+
+    if (!response.ok) {
+      throw new Error(
+        `Failed to fetch quote: ${response.status} ${response.statusText}`
+      );
+    }
+
+    const data = await response.json();
+    const quoteBox = document.getElementById("quote-text");
+    quoteBox.textContent = `"${data.content}" — ${data.author}`;
+  } catch (err) {
+    console.log("Error fetching quote:", err);
+    console.error(err);
+    document.getElementById("quote-text").textContent = "Couldn't load quote.";
+  }
 }
 
 // Load quote on page load
