@@ -37,12 +37,6 @@
             "desc": "gozira"
         },
         {
-            "href": "https://card.apple.com/",
-            "ADD_DATE": "1607010069",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB80lEQVQ4jZVTu24aQRQ9d7C3CMuUiCIS0pLGQtDGUlzhRwQxDZ2VJihy2lBbKa00ThHJKR0qPoEoxEjONzBm2VgKkYmCRLu7IOG1ZydFYMzLRW4158x9zOMcwkLYtm1IGckTYU8plQQAIuophfNIRH5Np9PBbD7NgstLZ18p9ZHzWMo0ozCMdQBAENxiOBzB8/wuEVUymY364mC0Wp2KEI70PF89FJ7nKyEc2Wr9eDtXLMRVXghHjsc3S0UXF9/VwcFLjcfjGyWEI4W4yus7C9H56bqrJx8evlGO48xxrusrIZyubdsGk5IKnPMU56Y+0cnJBxQK+zg7+4xisYijo3col19jMBgAADg3wXnMkpIKa0TYM82oLm40vuH09BMAoN1uaz4ej+P6uodEIgEAiMWicF3vOVOKJQ1jTSc2m82lBwaAcvkVNjefamwY6yCiJ2wxkbElavJWnZU8Iwp7QXCniVwutzKxXq+jWq1qHAS3ANBlSuF8OBzpjd3dHWSz2ZVNMpmMXvv+CIBq0D/pMieZfGxNf6Lf7+P4+D22tp7BsizUajVsb+dQKpUAAJ43RK/351ckEm4A90IKVwlpMSZCCrWQpvF/Uu5UpnUPmImnTPPRjJnuJmbylsw01wATaYchvQDYzr2d1W8ATcbUl0U7/wVjx45kN4RH4gAAAABJRU5ErkJggg==",
-            "desc": "Apple Card"
-        },
-        {
             "href": "https://docs.google.com/spreadsheets/d/1V3ZyU8jNGrP5kfcngmbxnyFyGzNm8h3zb3m4dVEts2A/edit?gid=0#gid=0",
             "ADD_DATE": "1738724655",
             "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhUlEQVQ4je2TwQmDUBBE334swBIsItqIAY/WkA60A8tQsBObsINYgeMhCsGD+FXw4rsuOzPsMpY0aT6KCgjxwKA3owgkCt9lAEEkUTlBtB52WUuXtXt0QufrvOa0gL3qVMyxfYib98UJ/lnSLC5b3H/ER+D3xu+RMjE30pn0MegP7A9I5QTEeSThZqRUhQAAAABJRU5ErkJggg==",
@@ -59,12 +53,6 @@
             "ADD_DATE": "1697722344",
             "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADPElEQVQ4jVWSXWiWdRyGr9//+Xw/tjY1dRsbZpvg0tnMVX4tAyuViPIk6CQo7DSKoJMOPfGwk7CyoyLqRKhgigRtmjSWqXMz2azZhm61uebed3ufj/d5/r8O0qD7+L644OYWgHc/P7nDL4THszw7AJSMCLm1WGvFMQZjjKoqCoCuOo77Q5xmH3z42rFr8s4XH293A/eM7wdtSRyriBCniZSDAkU/oBrXiOoprnFwHEdFBD8MJI3TO4m1h1zHd074QdCWRnFqRLw4TWRf1zZ96tEtVKJI6lnG5ZnfdKFaYWmlKklWV1FN/ULYplF0wsVqfz2KrYp4y6srsrtzq/Y90iWfDJ7Bc1ze2P88R7b3yV+VezQWivrtlWGZXpz3iBML9LsiUsrVIhg9umuf7u/qls8unGPTuo08193LhclxZpcWma8u077mYTm6a69+OnSWKE2MI6ZsENGkXufg1h2ytlSW8TvTBK5Ld2s731wdRkTY3dnNWweOoCjTi/PyWGuHpFkdjKix1lIOC2xe36Knf7lImmeoggKPt2+mt6OTW3f/5Lurw+zp7Ka3YzO1eqIAAriqKkYEEKnnFtc4NJfKRGnC0MQYtSTh9b0HqUQ1BkZHWFpdoWt9q4zOTKGqYhxjqEQRM4vzHNq2k7Njl9jQ2MTGxmbiNKUUhCxUl7m9dJfDPX18f/0KrU1raQyL5DbHFREVkKmFOX31yX5pLjUwNDlOc7HMsWcOM7f8N55xWK6tUs8zXMcBwKpFEIwCFqXohzJ2e5rBiTFe7Omja0MLP9+aZHRmCkQQAd/1eOWJPUwtzFGNIxxjMKhK6Hpcn53RlqY1GnguJwcHuHjzV0Tgpd6nuTE7Q5JlbG1p5261wrnxywSej94fcdV1nEItjeX0pR/l5Z17dKUzlvUND2FVOXX+LPU8483+F/h65DwjUxM0FoqICKqKvPfVqYGgEB6ux3Ga5JnnGUeaimVd19DIrk1bJPQ8Cl7AyB8T/HTzBqHno+i/sAhunuXvp0nS44dhmyaJqqourlRkvnKP3+fnaAgL1NKE1ST+DwYQER58gbe//Kgn9AvH8zx7FqQk9wvWWsmtxRiDI+Z/5gf5B1XYjuJWHeqAAAAAAElFTkSuQmCC",
             "desc": "Self-evaluation guidance request."
-        },
-        {
-            "href": "https://www.mtggoldfish.com/deck/6260433#paper",
-            "ADD_DATE": "1710716013",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAC3UlEQVQ4jQXBS28TVxQA4HPuY2bsGduJHRKDTZrglGd4RsCiiBbUqrwkRFOpSBVVpQALBFvEHwCkbirEDgnEAkT7A0AIKdAWFUgrCoQkDSHkVUJxQ+LYnonHnnvv6fdhsW8nEAGiBoqHkZD2kuvwVIYadVMp0ZIPUgDjQACIACSAiBDR6KRmo2s7H61r+37PSR6Uo5pv3s2q4Zc0NIT1gBgiEQEKQgSjHRn76cvu69laU1A6+PvPXnEMdMhtW2cyamM7PBu1DRhEBBIE5Bl+c2/3k4w+NRH1VOaWe/NcgpHIbRuwrLLuh03Z2rOZGFgGQbhh9Ly78DwVXZzPJtUrp9WtG5uv3Wdx5g/dFhAyrZfnk7Mlz8xoRppxy+kvJFIRyMq/yqqEotnfe/6adeRG01G5/wfjLENQOqgku3LVFRkTNVg55b1udT6jtJChh2q25ZNBa9VE//1jJy7cZ52xDYcCv7robbS69rmbtmlLCnTc45PNq6Ja0PjguRRLpc9deTB66y4kku8XltBOVEW+pX0zqcCJu3UmhAzru0aCYgdnnClmtVXHTvWe/rGxtLvn468K8cqdh7KpfX52Ymp8JEduIvCFqfvVViuySPuRceM0+ct3TH59ptfS2vx2KXo/gN6GcHr8nbsm93aacRQ6DKxgPqGTKt9aDeagec3in/35sXvckpIaMdcJ/xu8t/JbEc+lBu4oaTNGUF+cmksXokX21+B0meWitm2TtcRr6ngcfHR1JHN5NPdH2+ebx36V9YCY4Gd78pHSZWlNFQ4NYyL96q7BiIS0eepp19FHnb1UXjhcfdkx/pirBgAKA0yS6Rh/GAB5Pd+8WL1115ub7eHMwMpPFwq71w8++MJ/umJmkoW+EjEkjcW+HcyYqpsGrRpu0/C6AyVL7Ame/N2y3f7n7Zbh20YbYgyQIRkAwGLfTgBgRhMi08pu+CUvy0Fzo1ApYJy4QDJAhIAE8D96mWm47itAowAAAABJRU5ErkJggg==",
-            "desc": "Rakdos Vampires by Markx_iZZ Deck"
         },
         {
             "href": "https://www.keybr.com/",
@@ -311,61 +299,6 @@
             "desc": "Sly Flourish: Helping game masters run great roleplaying games"
         }
     ],
-    "Life": [
-        {
-            "href": "https://secure01a.chase.com/web/auth/dashboard#/dashboard/accounts/summary/creditCard;params=card,480264236",
-            "ADD_DATE": "1534550871",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABZUlEQVQ4jZWTMUscURSFv/N2ikUsRMTfkMJCJFhYiThLCkux2WFMGUIKC3+JRUhlsY4gYplCdxfLFCKpLPIbLMRiCRabd1K46sw6K+vp3rn3nnfuve/JtqiB8v4H8OIzEf/9dfHp+lXeuIDa3RUUAwqHwFIpFIFvPmr9KOeHSnHW2yDQJyTzNaYCcKC8t10roKy7g/wTmKtraYQEu6P2xXpFQHnvK6IAmm8UP6FJQ2fa7S8DJMq7q5iD8XawvhA0O1FmGMOjJdQEh/G4i/RX+ayst4b8MsAAyvs7yRSWRwWaxV6qkl58dfN7kYBuwTcVNnowrYBsS+3uCo2wMDErevDYQjwvs4i1lxk4nkx8A+IGtF9ihkh77qRXAcDHrd9Y28DDFK4fMJk76XfKu3eRXmI+A8M3iu+xtly0Tp+IyhZctE6R9kYfp4xIHN4R2XSRXla6q/vOys4/EhozJebWnc0/dZb+A6fydvfTPNXhAAAAAElFTkSuQmCC"
-        },
-        {
-            "href": "http://www.epiphone.com/News-Features/News/2004/Epiphone-Les-Paul-Baritone-Brings-Low-Down-Tones-T.aspx",
-            "ADD_DATE": "1468371363",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACTUlEQVQ4jX1STU9TURCd2/sAA318PKKRhUET20aDiRQqgq7kK+jCDxKRhRrbuCXS6o6iEv+BIiZG9BfQIJgQScCFJOzA+kohkOcGTOiCFiKt7907d1w8RBKjZzWLOTPnnBkgRUopIpJSEhEifpicvHv7zim//4hRfbiy6uTxE7du9iTGxhxHEBFTpIBAKcU5X1tdG4zHp6amykpL687U+Xw+Bsz6ZplfzezWVkdXVywWBaWUO9s0zYaz9Xpp2YO+vi+Li0JKInJ3ptPpwXjcKK+4fvUaICIi5nK5jrZ2o7zi3ehbt08phYgopSuYiD7NzlqWBbZtK6VeDg+XcO3p4ydEZNu2bdtCCOlCSMdxhBAuDVy7F843N9YH8/k8/RtSSkTUFhYWVpZX1lZXL7W2JpNJ4QhgwBgDFwSMMSFFzdEan98HAMyorCri3KvrPwuFH7u7jAHA724AAOCcZ3PZ8L3w69E3iKgNxAeWl9Lj4+PNLS3BYNBxbObxsAMcxlihkA+Fzrk1uIEa5RWx/uh/DLi5ERFIIXd2di42t5z2BzbW14UQjuPIv4CIUkqllAcY6Lre09trWdarkRFN07jHQ0SeA9g3wxjbO1w2m+1obav06sPPXxzUgIj7h5v+OJ3JZP68xlIqFWpo9JYcuh+JzM/P5wuFvfgRU6nUo9hDvcwbCUfY/jDOuWVZz4aGJt5PcM4DgcCx2toiTctsbpopczu33d7ZGY32M6WUK9HlAMDszEwikZj7PPd9Y0OhMqqNUFNTd/eNrstXiouLfgG0RNqA0oKUmwAAAABJRU5ErkJggg==",
-            "desc": "My Guitar"
-        },
-        {
-            "href": "https://fastapi.tiangolo.com/tutorial/bigger-applications/",
-            "ADD_DATE": "1582119256",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACrUlEQVQ4jWWTT4jUZRjHP8/z/n4z89vGVUncjU1T1JN/8t9BsMMqwRbdCjrULWg2FEUv4orCnPxz04uyBtpNCCqIEhaUmUMLRZeiCEnqEGyNiIWwzszv93vf9+kwM7rlc/88PO/3/X6EwQhgAMxffI0gHyDxEJEJAJQHmLRw3GD29DcrGWE0zcYYU1suEJhFpEoIQUWCiIDhcM5hlgdlnqX7czSvd0dblPlmjZh9TrUyQ6+fAwERR1mA94JgQMDMsWZtlbJcoNN7m2aznwCRmF2gVpnhSW8ZkRSVhNLbwalXdMeL6+n6QrIk1VQdn97/ZflhJZ1hUs4DJ4Srlw6g0iYEAwRBCJHxtGI/v99IN9THFeCfPLfTi3f8J/d+igUYzglFMZ2gNIAqRg9FVZXY78d3t+92I/iL338Nx1q3/dLjR5C9IEQiUCNJGgkxHsLwCIoIMUZcWpEjO/fp33k/nl28G6/9+L1PazV1Y6sIFkFQQggg04rZeoSAIIoIeW5vbtoqe9ZNuMd5zjvbtuu37zXS16c2EYoCQUYP9RAnksEfmiCKYYaqHX11n4uYbR5frcFinL37VWgt/WGkidiwLqPqJKAPMNuoIj7mOXtfelnf2LDFAXL5h+/83GIr9MsCalXBhvBgS4Lon4rQxjlnZpFQcm7/Qf2ru2xvfXmrONn6OvQFNKs9gwfFijh1QFvx/jqQW1nIrqmN9L3nwK2P/e3f7plmdUFEoo9PC4uZDYIgJ8b5QZWvXbpCJT0+iVvu9J6kBC+uWiXEFeDodLOSsaxOUV7ho1MndKBKb46yXOiYryOCpBUfQrT/gOABGMvq5MUC0j0DqAOMdrvk8M7PSOqrENmPSDYUzYaBJzhXBQlYuEq38yHHLvZW2vi8ztg0ZpPD4DqIttB48/86/wvimjwU/n6glQAAAABJRU5ErkJggg==",
-            "desc": "Bigger Applications - Multiple Files - FastAPI"
-        },
-        {
-            "href": "https://mail.yahoo.com/d/folders/1?.src=fp",
-            "ADD_DATE": "1585791146",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABGElEQVQ4jWNMYLzEQApgIkk1DTSo23FPfKk54bkGCzsjURrci0X4RFkenPn+5+d/dA1NF1Xn/NLhFmRm42Kc+VW7+ZKqmDKbvjcvAwPDrglvsTjp+JL3zCyMRgF8+t58bJxMJ5Z9cM0TZmJifHLlx7W9X7BoOLHsw////01C+M3C+BkYGE4s/2Doz/f1/d8dPa+RHckCZ71/+ufmwa9aLjz//vy/fewrOxfT3qlvjy/58OH5H5yhdGzJBxZWRjZOppPLP6Yvkw3rlAxsEkcLBhQNZ9Z8/PPr37+//0+t+nBmzcfX93+d3/gJTQMLModLgJmZlfHKri+fX//d3Pp6c+trBgyAYoNFlAAjI+PJ5R8w1cEB4+BLfAAhF2rUD5CgFwAAAABJRU5ErkJggg==",
-            "desc": "salisbury_jeffery@yahoo.com - Yahoo Mail"
-        },
-        {
-            "href": "https://www.amazon.com/Acer-XV272U-Pbmiiprzx-Technology-DisplayHDR400/dp/B07MQBPMJ2?th=1",
-            "ADD_DATE": "1602623504",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABxklEQVQ4jY2TP2hTURjFf09zM1UbcGmID9xEFEyyCTo1b6uLxuCS1e4Fg4tuIigu5uGWxSG4tOngKHTzH5mCYJLBILTvWQOa59MODXgckqbJe4l44Bvud/nOdw7nXiQlJT2VtKv/x+54JmlJegTcYwrdbpdarcbnXg/Lsri+tka5XGYOniDJn6ZuNps6aYwSkapUKvOU+EgaTHfurK8rYYwKjqN2uz05n7XteQQDS9IAWD7S5Ps+nucRBAE/w5B6vU6j0QBgeHgYtRDEFHQ6HWXz+ZiFhDFzFcQIbpVKShijbD4vz/NUdd1/EpyIajqSWywWSafTtFqtyV0YhvEcogqyudxkY8FxZhKpuu4CC7+9mRgztq2EMcrYtqquq2KppFXHUfjd15/2C+nDxqgmKby6uMzVLUidn/dYjrFzE5bOQTIFnx7AbY1T2HstvUR6vyGFXlTmMX7tSb1N6Udb2jwTeQdfGvDuxmhT6hqsOGBOgwDLgv0d2N+GK1ujfv8NXL4fWJJ8YAWAfhM+PoRv26NBxvMASxcg9wwyBRiO0zCnvlqSHgN3Z7wOOtB/C8NgxJC6BJnVhZ8pKem5pIPF5mM4GM8k/wJxWy/G2xfV+gAAAABJRU5ErkJggg==",
-            "desc": "my monitors"
-        },
-        {
-            "href": "https://itch.io/games",
-            "ADD_DATE": "1640910311",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB+0lEQVQ4jZ2RvWsUURTFf/ftZhZ3AxpRBJvYiIWNEEgTEdJY2FilmcyGgCDYSBrTafAPUCSFgiCEhA1IKtuEaApT2SoWFq6FG0QJCWY3yZvddyycWcePJt7qvnPPOfdynpGVpqdPHHp/kkJZqVQFUK/XKeKVKNq2hYUdABOYT5I5gzmOUtL8QKMxY+nk5D2Z3T+SOL/Q7K75JPkODP6PAbDnkD5lj0Ngs2D/qkB8Weg3AZ/1TTtIkgsObpnZF0Jwcm7IpO1gVkGyzEwuBJ/PMJOkM8G5xwbg6/WnSDcAZ/BZMARUgd1s03GgY7AjOAsEzJ5FS0s3ywBI5wAHvC3DVarVb912+3YwOw3gpK/lWm2eTudUKq1hdjHTUM42HAMwacYaja0Me3AQx+cBBpaXP2TYVjo1NaMQ1nKNywYyaJUbjX5Y+3E8XHJuo+Tcxn4cD+d4eXFx3aAFhKJBkLRqoH7WUWSClqBFFFn/c0CSVv806AnWcpKP41HX7Y5YCLMWwqzrdkd8HI/m84zb62dgsIvZu2xoqXMPDcbkXL4VnHstuGIgK5XeWwg7fQNBE7jjk+RNanYdaYy/63Jar6976QXSaICPv37B7DnSE+Aa0tA/xNntGgcuITVNetS/7jfOxMQgtdrgofdVnBv4GXFIK1HUod3es5WVvSL/B8Eq2igxnUrUAAAAAElFTkSuQmCC",
-            "desc": "Top games - itch.io"
-        },
-        {
-            "href": "https://myaccounts.capitalone.com/accountSummary",
-            "ADD_DATE": "1667229199",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABy0lEQVQ4jY2TsUsbcRTHP3eXpkcvQg3S07aQboJIiJu4yt2uLkVxCU4ZOwiOpWOQbBm6CcXNtf4BglklWuMiqaKQobmQa0L0Lr3XoTmJl0voF97we7/3/b734/d9iIgSCUtEvonIjYg8DuJmkLOi9QwdTBEpiUhTxqM5qDGjAqaIHE0gRnEUiiQAnKurL0ldXwdQWy2iCKanAdBnZ0noOsA6cAt8Us5t21JFvgNIt5sYYQ+gGEZfzWQS+vw8b1ZXebW05AAftcLm5mdN03LSbgdKMhkErZYqnsdIdLtqcH+PV63iVip9Y3HReDE3pyqu6/5UfD+D69JuNPCvr/HOzvBPTwk6nXEDMbW7y4etrVtFRB6B5PBlx3H4dXxMt1yOFVFTKV7v7/NuedlT49RT6TTvNzbQFhZiuxtra5i53D8xoDF2zhi8tG1m8vnwNxoqcBJX6NVq/Lm8fDb21PY2b/f2SKXTYfpEBQ4AZ5jcf3jg7vDw6f2aafaNQoGZfH6Y7AAHoRNLocX8Xk/qxaJUs1mpZrNS29mRu0pF/F4v6sbSiJWHyRcrK1IvFuV3vT7Rys+WqVEul35Ylj+h69hleopz27aatdrX/13nv4Bq+2cCeOUWAAAAAElFTkSuQmCC",
-            "desc": "Capital One | Account Summary"
-        },
-        {
-            "href": "https://www.aepohio.com/account/",
-            "ADD_DATE": "1686934628",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJElEQVQ4je2QPU7DQBCFv3E2dWwaKiQXTplgToAp6TgAEkaiSIdyAocbQAdSChAcJJyAFTRIREBFlx8aGpIdCjs/CiSUNLxmd/7em3nwDwEY1Kqpoge/NpekGdgnO58zAM5z256UDwP7+LpsuFePWoL6i3kDIE7C4GH5cIFKYLudH0/o16O7tfvu1iSZNhrheMQLgMKOiB6jspdXdQjiT/4mfxnOs44/yXJqECFUJSzCjoIvaFhUfTOIq7FzahfU06mS6qYgcaEYy1QdBE4MuTHv39XFAgmQzl08Wf30un3RBDDOkXg626DkeWcjdVc37fPO/lEjAWH37Tn5KJWHt+sbFsAYmRneq0etQRwlq+xf1WOAio7J+rUoW8qgAOZylcjf4QsALWin+1lYzwAAAABJRU5ErkJggg==",
-            "desc": "My Account"
-        },
-        {
-            "href": "https://clients.mindbodyonline.com/ASP/main_info.asp",
-            "ADD_DATE": "1643831222",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACaElEQVQ4jY1Sv2tTYRQ9937fM/SRQmsSWwuNZGh+WUScFFGXLgUnxdrJSQQ3F8Gx/guKDl1cVHAoVBB/pIiTgwhCIQ0xlj4qbTEJDXltmhib77sOvuojUPDAHc+595x7CP9AAAQAMpnMeaXURQB5Iuru7+8vVCqVDwB+og8UJudyuTNEdI+IppVSUQCw1loANREptFqtufX1dQ+AAmAOiARAstnsVa31vNb6aK/Xa4vIW2Yu9Hq9tlIqR0TXAQwZY+52Op2Pnud5AH4RAOTz+WlmfsLMI9baRRGZW1lZWe679sjk5ORtIrpvrV3sdrvPV1dXC5RKpUZc1y1orU8ZY54Wi8UbQRYEgEMCJlg2w8yPrbWfjTF31NjY2IzW+pa19vve3t61ZrPZCojSNwCg6vV6MZFIRJj5JoCvDOCCUkpEZMHzvGpAtv1ph64g3/cficgPIjrBzDwuIgBQ6vvMYZCNjY2GiFSIKMtERCKCP9/6bxARtUXkGFtrK0QEZj75v+xkMjkkIsNEtMzGmNfGGCKiK6lUaiTwqQ6xwgAwMDBwGkDUGPOKy+XyO2vtS6110nXd+Ww2GwtEDpIPC1kAjtZ6loi+7OzsvFcArOu6nxzHuew4zjkAZ+PxeHt4eFgPDg52m81muP9OOp2eZeZx3/fntra2tv9WeWJiIheJRB4opaaCUOtEVDXGPCyVSvOJRCIaj8eniCjq+/6bzc3NbQReAYAajUa9Vqs9i8ViJSKKAchorY8TEarV6ovR0dE0MzfL5fLS7u5u58Ba2F+4QCqTyVzSWmc7nc7S2traNwARAN1QLgIAvwEUNg+ZtsvRiQAAAABJRU5ErkJggg==",
-            "desc": "The Fitness Loft"
-        }
-    ],
     "MORKBORG": [
         {
             "href": "https://scvmbirther.makedatanotlore.dev/",
@@ -384,56 +317,6 @@
             "ADD_DATE": "1626139632",
             "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABE0lEQVQ4ja3SSyvEYRQG8J/7ZTQmakgj5ZK7QoqUvYWNL8B34QtJ+QJWysLWzkqMSMpExmXxnqnpH4Z46ln83/c9z3P+zzn8ES3f3OWwhAJufiswj010oIgdXAcbYgQldAf7sIi9OG/YwVq0nccDeuK7DTM4rX/clCmeDnbiAvdRvB1mK9jAW62gOSMwGWfl4CCGcYt+DEn5+EqgHXcYDacnbIV7MQRX6wtaMwJTuMR4ZLCGWTxLYy1Lk/lS4AUTmJPSf0Y1OhpAF84aCeTwHnd5aQr5+L1emSlkMzjEghTcY4jcSeGVcITKdwLnOMFrsBlj4V7Fvh+ggGNcSYtUkbLY/exxdpFqaMM6lsP5QFqs/8cHA8QvQjcWNG0AAAAASUVORK5CYII=",
             "desc": "The monster approaches..."
-        }
-    ],
-    "Crypto": [
-        {
-            "href": "https://www.alchemy.com/",
-            "ADD_DATE": "1636341068",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAChElEQVQ4jS2SP2hfZRiFn/Pe797v3qQ1JLSDRelQFKWISqXgvzi4iNo4VVSKiw4ZqpObm6Dg4KCgk6O7oIOgzsXFQie7uIkEURMag+nv3u89DvHAmR7OMx1deubu1a4rn4HP2k2AQLbAxXIR2RkXQYALdhdQ4o/m+V1d3l79RZStbKuUJAAXOQuix1ms7ISL7EgRwh2m9OFc9gvSVuZ8QpRykVtvuYclpCyiq5AdyhD0YWQ55rS0GelMgQicRW5V1hQ+mMXVFzu/9nJwsACTyUnOIbVUaGOQlSwCAWQvcsDurZXMffcH77wudV3wzS2zfwxdRRngzjiEhOJkDNmnsgdXcRyinoZhgHvWrN2d4CjAo8gaZJWyolYhXMD9iYSK7jR48nFx6RHx6bcJiGvPBo89JO5gvCbnKOcIbQxHFpG9oBfuwQO89VLw4Zuhm7/Jt3+3a0HvvRAsFdoAbTxpTig8yNmBRthfwc525+ceDUrA+gb6+EcbzPMPoDcuB4dhMUGOolW5ZDEMcFdi8wy+viMJdONX/N3tpK6jt78On9kQe7PcRqsN4RYWMsWBNMD+sbl+JXThXjQv+KPvkw9eCS6eE3/+C7Pw0+cd585GfvGLtTWJBauoh6MFnnhYvP9qCMSXP5lL58XuUyfP/D+C4MoFx81/5J8P8NRDyYITNJ2Cz3/AM8lXt/D2g+KTG7CEUS8c0DrTF2v9VLgdW63IunhttifySOgQaJN8etM6DHFc5BytrKKNQAUG6CeYBrkVRXHnfXf9Zq1LjhNqgzX3YmOCjRFaFVkhq2gVcoCl4GVNQfJ3NLxL5z1HMIMXUIZpwCy0IM+CVeA58KrDywhZ2VtGdv8D6dNATAO3xhcAAAAASUVORK5CYII=",
-            "desc": "Alchemy - Blockchain API and Node Service | Ethereum, Polygon, Flow, Crypto.org + More"
-        },
-        {
-            "href": "https://dashboard.alchemyapi.io/",
-            "ADD_DATE": "1636341320",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACGUlEQVQ4jbWSO2hUURCGvzn37t3duzFGIS8wEtBCFDVBhYhYhBAhPlARA4JYBQuJYBpBq6RRWIKCj8In6RUE8ZVOEAlaiAZrSRG20BAkmGT3nnPPWCxBCVetHJhiZv6Z+Yd/4H9aZ1nbOsva9jeMyU6rABQM93MRDwAY1UysZDeLbh/To0Q8sSUkCTn85Zw8R1UQ0X8xEIDQctYokJAGynjzbW3IWpdJa/OANvqEcWPxpooLDVsaDZdAdPUpvwX1wv4z7G7fxNSnMm/UcisKyesCiYGRzrvaxaj4FWwGAzWB50oUsrVnmPLXkMtUqQQeMY6iUa6BGhRdNUANiO87wlCk9NXmsUYZaa+wNrVcyBly/CAJA3o33mMI+XWKrEjWv4/23Do+JHnW+wZyScTkrOXYzIRUd4zpU1/ikI3wrsS3Wsie2TNUEFFTHyIaB1wNU1rFoeJYTL8zPDMhVYDpOU6idLsa3R4GZj8yX5dTRQCOd2l/UGJyKaJmmihU4eLCGh7GJe7UCoS2QGqLJC4Gl8enzeSXHNcrp+Wt7N2gxY4WptKQbWkJ4/J8fvZKdvae0sfSxInlAFwMaQy2UPe0CSxMz8zTI4O79EYUcD5JwZdgKaHHtdKRa+TRoqAuRlwRXLHe7GKwEfgWSDw3Q/G8tMprIEyrzL14L+8OHFTSZQYlIiHF4BCfoIQgtq6dLoIvspzxh5rxsH+2n/n83EK/W6f7AAAAAElFTkSuQmCC",
-            "desc": "Alchemy"
-        },
-        {
-            "href": "https://docs.openzeppelin.com/contracts/4.x/",
-            "ADD_DATE": "1636342425",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABtklEQVQ4ja2TvWpVURCFv7XPOTcSb0IIuYqoWAgRxd/KwsbGxsY38AUEW1/ER7C2ShEQGzsbwUJDmiBEgiBKzM9NvGbPstjnnCSFIYUDA5vNzNpr1qwt26vAIhCA2jwp3GYCPsslkGRAtk/slgRg25KEbHcvd+inYdDX1y1cz2A8Dn5PjI7CCCJD04jhWUlSz6DuaEdYVZV49XqL5be7zAwTB7k0C5MDXjyb5+7NM0SE2lFUH+NmmEzMzjhQKioNKtjcDR7cn+b2jSnCZYIWgF7EIhD83Ay2dzJNLTa2zdJqJgc8fzhgNFsREYfNEqk7SMIW83OJK5cGjM43LH8TH3cTdxYHLMxW5HBbe8i6F7GLHKYSLK1kPnzN3DqXeHI1Icq9Uc+2ByhbMbapUmJjK3izlpmdEo+vVfzC7O+ZYS3mmqJVz7wTwHaxmOHl+wPefcncu5yoLoi1cbCXzaOFmqcXa8KBECm1GtgFIEmsfA9WfwTXFxIzI7G+HwwrMV2JJnHcH+0Wovio2HP8BybZDCoRCcJGCGOaVIA4tLL/i5Vlg8RpP5OOMFD5kuqR3XniX3m0Dvj0F1RL6LkVPWGHAAAAAElFTkSuQmCC",
-            "desc": "Contracts - OpenZeppelin Docs"
-        },
-        {
-            "href": "https://hardhat.org/getting-started/",
-            "ADD_DATE": "1636342446",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABn0lEQVQ4jcWSwWoTURiFvzuTTDTR0tYW0VgbhSG4cOnGZReCvoI+hPocir6ELnTlRrpx5VZBQZva0oA02liJM+k0mmTm3uNiaM0YqTs98MPP5ZzznwMX/jfMnx4lDBGX8QjxgYwtZnlrDPqro0TVxtxTH/02D9WldqQ47bKS7dJRnItshFw8YRLTUcLKpMY7WIbbXLcpq85SPyj26InPi5dLk4XrOFazb9woXE42WRy06Q3aKP2SX4u3UWP5uG7euqb9nVKhjovoKWHxMIEct23KvE3B+Lnp46cldr8a4n6lmCLH/DDiTh4KiNdYRzQBZs6C8aD1wfDsuU+jcYGrV7qcP5cUHH702KhepOnpFWVZQmdBNhcDNEPx+o3PRnuWpXpRDGAzQr0nMFrnZDRizw/A8+HE6V+kzmfDsUqFhVPDKYO9TzD2mDHqc99Z7rosL1QKprgFZCMA5JdBHg9K3yPWxgPe4bgk8IMaBFWm/6hgvA+jBBAOQ6tcpXVI0yaVJGPZppzBMieoyRAAGDE2MMhEhMfOQo2PJmR0dNZ/hZ9W2tAGRU0LfgAAAABJRU5ErkJggg==",
-            "desc": "Overview | Hardhat | Ethereum development environment for professionals by Nomic Labs"
-        },
-        {
-            "href": "https://hardhat.org/guides/compile-contracts.html",
-            "ADD_DATE": "1636427811",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABn0lEQVQ4jcWSwWoTURiFvzuTTDTR0tYW0VgbhSG4cOnGZReCvoI+hPocir6ELnTlRrpx5VZBQZva0oA02liJM+k0mmTm3uNiaM0YqTs98MPP5ZzznwMX/jfMnx4lDBGX8QjxgYwtZnlrDPqro0TVxtxTH/02D9WldqQ47bKS7dJRnItshFw8YRLTUcLKpMY7WIbbXLcpq85SPyj26InPi5dLk4XrOFazb9woXE42WRy06Q3aKP2SX4u3UWP5uG7euqb9nVKhjovoKWHxMIEct23KvE3B+Lnp46cldr8a4n6lmCLH/DDiTh4KiNdYRzQBZs6C8aD1wfDsuU+jcYGrV7qcP5cUHH702KhepOnpFWVZQmdBNhcDNEPx+o3PRnuWpXpRDGAzQr0nMFrnZDRizw/A8+HE6V+kzmfDsUqFhVPDKYO9TzD2mDHqc99Z7rosL1QKprgFZCMA5JdBHg9K3yPWxgPe4bgk8IMaBFWm/6hgvA+jBBAOQ6tcpXVI0yaVJGPZppzBMieoyRAAGDE2MMhEhMfOQo2PJmR0dNZ/hZ9W2tAGRU0LfgAAAABJRU5ErkJggg==",
-            "desc": "Compiling your contracts | Hardhat | Ethereum development environment for professionals by Nomic Labs"
-        },
-        {
-            "href": "https://faucet.ropsten.be/",
-            "ADD_DATE": "1636428854",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+0lEQVQ4jZ3TsS5EURAG4G/dDWIr2UJBZAtaodLzABqJVqsRnWh4A2+gkKg1OgkJKlGI6DQotxESVMsqzlm5jrty3T+ZYv7M/DOTmcn8RAPrGMcbNnGAR3xgBdO41Qer6JawsV5CPRE4wV6s8IwNzEbuAi0Mo92vgxQ7sWKrbEIPU9jGexQ4wiJqZQVm/J67jeZ/urhKBHaLggb+EOgk/k1RUF1Y3SQGhf1fR34+iZ3DfpHIp3K77+IJh1iqKpC3YzRq0amKrQzLyDASyQecChc3Ggvc4QyXmBB+Rsz7xpBwcY0c10x8WMuNcV+l7YWcQCd9pjJ4watwQ+dfpWxUoGqzOg0AAAAASUVORK5CYII=",
-            "desc": "Ropsten Ethereum Faucet"
-        },
-        {
-            "href": "https://www.freecodecamp.org/news/how-to-make-an-nft/",
-            "ADD_DATE": "1636429421",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACfklEQVQ4jX2SP0gbURzH3+9d8t5donTwou3FRGsCNmJBM3iDLRSztFAk6ODUoVspbQf/QdVZuxeCUBBHh25OhkjlXOLQDjq0oEhNwGQwqRHN3b27916Ha6VTf9Pv+/t+f8uXD2jaAACgvyOl/L/Et4JzEdhSyn/TUkrOxW0MA4AQ3LZtVSVSyiDteV6wBBdVJbZtC8EBAEspPc8pFNZMc8R12xhjIUQs1uX7npRIUbDrtk1zpFD44HmOlBLbdnN5edZx7FJpV9M6Mcaue7m09G5+/pXjNBECTesslXYdp72yMmvbDZTJPC4W9wjppbQvEkmpaorSxNHRd9dlqdRYOJyIRtOU9hHSu7Ozl8k8wvn803L5G2MtQqiiKI7za3r6+fDwA0LC4+Om57UwxoRQxloHB1/z+Wc4HjcqlQpCIQDkOE539721teWTk5/7+wc9PTHD6GXMBQCEQpVKNR43QpyLoGkA7Hk3i4vvk8n45OQL08wuLLweGhp8+fKNqmoIIQDgXOB6vWYYBkKcc66qnTMzk5ZV3t7+PDr6MBbrMs3RaPQO5xwhYRhGvV7DxaJlmlmEVCGk77NG43Jzcwuh0Orqx42NrbOzquPcCIEQomNj2WLRUmq15sTEk3R6wLK+SImvrq4bjebx8Xm1elqt1g8Pf5yeVhhrzc291TRtff0TIiSp64OWVc7lpgB6KO3X9WFK70ciKcPIUtqP8d1cbsqyyro+SEgSotG0bbd1vaujI1KtnofDxPe5omCEkO9zQkKMsUTCuL5uX1w0NC0CmjaAMWbME0JQSqSUACjALyAPAFyXYYwJCQshQgAghCAkjBAS4rbiP2wGP6pKb93ff5BG0OI9hgQAAAAASUVORK5CYII=",
-            "desc": "How to Make an NFT in 14 Lines of Code"
-        },
-        {
-            "href": "https://chatgpt.com/c/675847bb-6028-8008-800d-385fe9904ad4",
-            "ADD_DATE": "1733887364",
-            "ICON": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADWUlEQVQ4jTWTvUssVxiHf+85M7MfnBlXcRGzgikkC4JXQUWjRUSwyVZBS9EoViJbXEFu5zYSEWzURiUq2NjEyiUQwesnURBEgyDb2GjQ6Eri6ujO7Jw3RXKff+ApHh4CAMuyPpim+RMRfQsgJoSA1hpaazJNE/wfYGYA+JuZf/d9/5PneX+QaZotoVDoVyKqZGZIKblQKJBlWYjFYnh8fMT/EpimyVprAgBm/qtYLH4vI5HIz0KID8zsm6Ypnp+fqauri2dnZ9Hd3U1tbW3I5/P89vaGp6cnEkKwlNIH4EgpE1BK/WPbduA4jgbATU1N+ujoiFtaWri2tpZPTk747u6ODw8PeWFhQVdWVnIkEtG2bQdKqScopVgpxZFIRA8NDenz83Pu7e3lnp4e3t/f53Q6za2trew4Dk9MTPDGxoYOhULatm22bZuFlJJfXl4wMDBAfX19dHFxAa01ent7MTMzg4eHBwwPD2NpaQlbW1sgImpsbCTXdQGADa01wuEwUqkUf/z4kQYHByGlxPv7O7q7u5FMJrG8vAzP8zA9PY2GhgYUCgUWQhAAGMxMQghIKen19RXhcBg1NTVwXRfz8/N4fX3F+vo6Li4uMDY2hqmpKbS3t9PV1RWklCSklHBdF9vb25icnMTc3BwSiQSSySTy+Tzi8TjOzs7w/v6OkZERZDIZpFIpGIYBrTUMZmYpJR0fH3M6naZYLIbFxUVUVFRgc3MTuVwOxWIR19fXqKmpQTQaRalUYmYmZmYDALTWsG0bBwcHmJ2dRSaTwe3tLdbW1hAEAbq6uuB5Hurr69HR0YGVlRVorSGEwJeMOhqNcjab1f39/ew4Djc3N/P4+Djv7e1xZ2cnDw4O8uXlJff392spJTuOo5VSDKXUg+M4gWVZQV1dHa+srOhsNsu5XI53d3e5urqa29vbeWdnh5PJpAbAZWVlgVIqUEo9UjQa3RRC/EBEXrFYNEulElVVVXE8Hsfo6CglEgnc3Nzw6uoqTk9PqaysjD3PKwkhzCAIfqFQKPSNYRifhRBfAQARse/75Ps+DMNAeXk57u/vQURQSnEQBERE0Fr/WSqVvpNBEOSJ6DchxNcAKpk5LKWEZVmQUpLruohEImxZFrTWX3b+7Pv+j57nXf0LfgeqKaXBmV0AAAAASUVORK5CYII=",
-            "desc": "Competitive Dice Game Design"
         }
     ],
     "Photography": [
