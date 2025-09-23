@@ -53,7 +53,8 @@ fetch("bookmarks.json")
   });
 
 function loadRandomQuote() {
-  fetch("http://api.quotable.io/random?tags=technology")
+  let headers = { Accept: "application/json" };
+  fetch("http://api.quotable.io/random?tags=technology", { headers })
     .then((res) => {
       if (!res.ok) {
         throw new Error("Failed to fetch quote");
