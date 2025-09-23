@@ -55,10 +55,9 @@ fetch("bookmarks.json")
 async function loadRandomQuote() {
   try {
     let headers = { Accept: "application/json" };
-    const response = await fetch(
-      "https://api.quotable.io/random?tags=technology",
-      { headers }
-    );
+    const response = await fetch("https://zenquotes.io/api/random", {
+      headers,
+    });
 
     if (!response.ok) {
       throw new Error(
@@ -68,7 +67,8 @@ async function loadRandomQuote() {
 
     const data = await response.json();
     const quoteBox = document.getElementById("quote-text");
-    quoteBox.textContent = `"${data.content}" — ${data.author}`;
+    // ZenQuotes returns an array with q (quote) and a (author) properties
+    quoteBox.textContent = `"${data[0].q}" — ${data[0].a}`;
   } catch (err) {
     console.log("Error fetching quote:", err);
     console.error(err);
